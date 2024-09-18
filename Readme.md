@@ -70,4 +70,5 @@ Before Running the application Download Elasticsearch and run the Application (E
 * **Case Sensitivity in Text Search:** The text parameter is case-sensitive, so if a user searches for "hello" and the article contains "Hello," the system will not return the article. This limits search accuracy.
 * **Caching:** While Elasticsearch is used for indexing and searching, it is not a caching solution. To improve performance, we could use Redis for caching on top of Elasticsearch to reduce the load and speed up retrieval times for frequently searched queries.
 * **Dockerize:** did not Dockerize the application.
+
 **Feel Free to Clone and Improve the overall Application**

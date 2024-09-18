@@ -1,5 +1,5 @@
 
-# Data Uploading and Retrieval Using ElasticSearch Using FastAPI
+# Data Uploading and Retrieval Using ElasticSearch And FastAPI
 
 This project is done for a job recruitment task, and the overall objective is to create a backend where news articles need to be scraped periodically, stored, and fetched efficiently using caching
 

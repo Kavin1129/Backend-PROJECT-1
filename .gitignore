@@ -1,0 +1,10 @@
+# Ignore PyCharm settings folder
+.idea/
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore virtual environment folder
+venv/
+
+config.py
